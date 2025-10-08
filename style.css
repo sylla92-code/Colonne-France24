@@ -1,0 +1,26 @@
+.container {
+    border: solid 1px black;
+}
+.container-fluid {
+    border: 1px solid red;
+}
+.col-8, .col-4 {
+    border: 2px dashed green;
+}
+
+.logo {
+    background-color:#1ba1d8;
+    width: 60px;
+    height: 60px;
+    padding: 5px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold ;
+    position: relative;
+
+}
+.nombre {
+    position: absolute;
+    top: 12px;
+    font-size: 22px;
+}
