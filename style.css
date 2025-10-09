@@ -24,3 +24,13 @@
     top: 12px;
     font-size: 22px;
 }
+.container-fluid {
+    background-color: #3bbef1;
+}
+.container-fluid .container {
+    width: 100%;
+    height: 100%;
+}
+.col1 {
+    color: white;
+}
