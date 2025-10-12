@@ -4,9 +4,10 @@
 .container-fluid {
     border: 1px solid red;
 }
-.col-8, .col-4 {
+.article-info, .info {
     border: 2px dashed green;
 }
+
 
 .logo {
     background-color:#1ba1d8;
@@ -24,13 +25,21 @@
     top: 12px;
     font-size: 22px;
 }
-.container-fluid {
-    background-color: #3bbef1;
+.site-nav-bar {
+    background-color: #00A7E3;
 }
-.container-fluid .container {
-    width: 100%;
-    height: 100%;
-}
-.col1 {
+
+.nav .nav-item a {
     color: white;
+    font-size: 14px;
+    
 }
+.heighlight {
+    background-color: #4DC2EB;
+    border: 1Px solid ;
+    padding: 0px 6px;
+    margin: 0.5rem 0.5rem;
+    border-radius: 5px;
+}
+
+
