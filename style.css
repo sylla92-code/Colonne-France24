@@ -1,12 +1,13 @@
-.container {
+/* .container {
     border: solid 1px black;
 }
 .container-fluid {
     border: 1px solid red;
-}
-.article-info, .info {
+} */
+/* .article-info, .info {
     border: 2px dashed green;
-}
+    
+} */
 
 
 .logo {
@@ -25,6 +26,7 @@
     top: 12px;
     font-size: 22px;
 }
+
 .site-nav-bar {
     background-color: #00A7E3;
 }
@@ -42,4 +44,29 @@
     border-radius: 5px;
 }
 
+.notif {
+    background-color: rgb(11, 11, 52);
+    
+}
 
+.info_en_continu {
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    padding: 5px 15px;
+    
+}
+/* .col-12 {
+    border: 2px dashed green;
+
+} */
+.horaire {
+    background-color: #4DC2EB;
+    padding: 5px;
+}
+.annonce_info {
+    background-color: #eeeeee;
+}
+/* .info {
+    background-color: aqua;
+} */
